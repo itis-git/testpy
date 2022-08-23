@@ -8,6 +8,7 @@ def print_hi(name):
 
     print(f'Hi, {name}')
     print('hei')
+    a = 0 + 2
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
